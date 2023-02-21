@@ -1,7 +1,3 @@
-### Virtual Id Card Screen
-#### Screenshot
-<img src="https://github.com/fal3n-4ngel/Slip-App-IdCard/blob/master/ID%20card%20screen.png" height=400>
-
 # MBCET Slip App
 #### For all your MBCET slip needs
 
@@ -26,6 +22,10 @@ a TimeTable screen or even Assignments and Marks tracking.
 
 #### Screenshots
 [Google Drive](https://drive.google.com/drive/folders/18K264__e6r3NfHebzkyKeth9R8pt8eJg?usp=sharing)
+
+### Virtual Id Card Screen
+#### Screenshot
+<img src="https://github.com/fal3n-4ngel/Slip-App-IdCard/blob/master/ID%20card%20screen.png" height=400>
 
 #### APK
 [Google Drive](https://drive.google.com/drive/folders/1nCW62SZOJXX9nR3Xiz1OI5PClhE7WdPi?usp=sharing)
